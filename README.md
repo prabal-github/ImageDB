@@ -7,7 +7,7 @@ This guide details the process of setting up a Node.js Express backend using Mon
 Navigate to the project directory:
 
 ```
-cd image-db
+cd ImageDB
 ```
 
 Use code with caution.
